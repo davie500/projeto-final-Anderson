@@ -1,5 +1,3 @@
-O projeto foi feito.
-
 Aqui vai um resumo simples de cada tecnologia:
 
 JavaScript (JS) – Linguagem de programação usada principalmente para criar interatividade em páginas web.
