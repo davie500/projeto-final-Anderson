@@ -14,14 +14,3 @@ JSON – Formato leve de troca de dados, baseado em texto e fácil de ler/escrev
 
 React – Biblioteca JavaScript para criar interfaces de usuário de forma rápida e reativa.
 
-Se quiser, posso também te explicar como essas tecnologias se conectam em um projeto moderno.
-
-
-
-
-
-
-
-
-
-Perguntar ao ChatGPT
