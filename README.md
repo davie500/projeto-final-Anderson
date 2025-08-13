@@ -1,5 +1,7 @@
 Aqui vai um resumo simples de cada tecnologia:
 
+HTML – Linguagem de marcação que estrutura o conteúdo da web (textos, imagens, links, etc.).
+
 JavaScript (JS) – Linguagem de programação usada principalmente para criar interatividade em páginas web.
 
 CSS – Linguagem de estilo que define aparência e layout de páginas HTML (cores, fontes, espaçamento etc.).
@@ -11,4 +13,3 @@ Node.js (Node) – Ambiente que permite executar JavaScript no servidor, fora do
 JSON – Formato leve de troca de dados, baseado em texto e fácil de ler/escrever para humanos e máquinas.
 
 React – Biblioteca JavaScript para criar interfaces de usuário de forma rápida e reativa.
-
