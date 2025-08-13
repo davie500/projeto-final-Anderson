@@ -15,8 +15,27 @@ Resumo de cada tecnologia
   ( Usuário envia um dado o sistema recebe e armazena, também esse mesmo dado armazenado pode ser consultado por outros usuários,
   que tiverem conexão com o mesmo banco de dados do usuário que enviou aquele dado. )
 
-- Node.js (Node) – Ambiente que permite executar JavaScript no servidor, fora do navegador.
+- Node.js É um ambiente de execução para JavaScript fora do navegador, construído sobre o motor V8 do Google Chrome.
+Permite criar aplicações de servidor e scripts usando JavaScript.
+Muito usado para desenvolver APIs, sistemas em tempo real (como chats) e backends escaláveis.
+Possui um gerenciador de pacotes (npm) com milhares de bibliotecas prontas.
+Trabalha com I/O não bloqueante (event-driven), o que o torna rápido e eficiente para conexões simultâneas.
 
-- JSON – Formato leve de troca de dados, baseado em texto e fácil de ler/escrever para humanos e máquinas.
+- JSON  (JavaScript Object Notation)
 
-- React – Biblioteca JavaScript para criar interfaces de usuário de forma rápida e reativa.
+É um formato de texto para representar dados estruturados.
+Baseado na sintaxe de objetos do JavaScript, mas independente de linguagem — praticamente todas as linguagens modernas o suportam.
+Usado para transmitir dados entre servidor e cliente, especialmente em APIs.
+Estrutura simples: pares chave-valor, listas e objetos aninhados.
+Fácil de ler e editar por humanos e processar por máquinas.
+
+- React Biblioteca JavaScript para construção de interfaces de usuário (UI).
+
+Criada pelo Facebook, mantém foco em componentes reutilizáveis.
+
+Usa o conceito de estado e props para controlar o que é exibido na tela.
+
+Utiliza Virtual DOM, que atualiza apenas as partes da interface que mudaram, aumentando a performance.
+
+Pode ser usado para criar aplicações web, móveis (com React Native) e até desktop.
+
