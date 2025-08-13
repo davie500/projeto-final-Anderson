@@ -21,9 +21,7 @@ Muito usado para desenvolver APIs, sistemas em tempo real (como chats) e backend
 Possui um gerenciador de pacotes (npm) com milhares de bibliotecas prontas.
 Trabalha com I/O não bloqueante (event-driven), o que o torna rápido e eficiente para conexões simultâneas.
 
-- JSON  (JavaScript Object Notation)
-
-É um formato de texto para representar dados estruturados.
+- JSON-(JavaScript Object Notation)É um formato de texto para representar dados estruturados.
 Baseado na sintaxe de objetos do JavaScript, mas independente de linguagem — praticamente todas as linguagens modernas o suportam.
 Usado para transmitir dados entre servidor e cliente, especialmente em APIs.
 Estrutura simples: pares chave-valor, listas e objetos aninhados.
