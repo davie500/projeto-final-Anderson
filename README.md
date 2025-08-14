@@ -26,7 +26,7 @@ Trabalha com I/O não bloqueante (event-driven), o que o torna rápido e eficien
 Usado para transmitir dados entre servidor e cliente, especialmente em APIs. Estrutura simples: pares chave-valor, listas e objetos aninhados.
 Fácil de ler e editar por humanos e processar por máquinas. 
 
--React-Biblioteca JavaScript para construção de interfaces de usuário (UI).Criada pelo Facebook, mantém foco em componentes reutilizáveis.
+- React -Biblioteca JavaScript para construção de interfaces de usuário (UI).Criada pelo Facebook, mantém foco em componentes reutilizáveis.
 Usa o conceito de estado e props para controlar o que é exibido na tela.
 Utiliza Virtual DOM, que atualiza apenas as partes da interface que mudaram, aumentando a performance.
 Pode ser usado para criar aplicações web, móveis (com React Native) e até desktop.
