@@ -9,7 +9,7 @@ Resumo de cada tecnologia
 
 - CSS – Linguagem de estilo que define aparência e layout de páginas HTML (cores, fontes, espaçamento etc.).
   ( É uma linguagem de estilo usada para personalizar a aparencia e layout de uma página HTML. Ele não pode ser utilizado individualmente para criar um site responsivo, como o JavaScript e o HTML.
-  Também desempenha um papel importante na criação de designs responsivos, acessibilidade e até mesmo na adição de efeitos e animações. Mas não pode ser usado para um site responsivo individualmente. )
+  Também desempenha um papel importante na criação de designs responsivos, acessibilidade e até mesmo na adição de efeitos e animações. )
 
 - PostgreSQL (Postgres) – Banco de dados relacional poderoso e open-source, usado para armazenar e consultar dados.
   ( Usuário envia um dado o sistema recebe e armazena, também esse mesmo dado armazenado pode ser consultado por outros usuários,
