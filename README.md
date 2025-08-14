@@ -497,4 +497,3 @@ Pode ser usado para criar aplicações web, móveis (com React Native) e até de
 
 
 
-vai todo mundo se fode
