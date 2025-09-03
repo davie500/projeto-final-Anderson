@@ -34,7 +34,7 @@ O backend precisa validar os dados recebidos e responder corretamente.
 Sem banco de dados, os logins não funcionam de verdade, pois não há onde verificar ou armazenar usuários e senhas.
 
 Resumo:
-Seu projeto separa clientes e administradores, cada um com login e área própria, mas depende de um backend e banco de dados para funcionar corretamente.
+Esse projeto separa clientes e administradores, cada um com login e área própria, mas depende de um backend e banco de dados para funcionar corretamente.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
